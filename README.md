@@ -1,4 +1,4 @@
-Note: This repo has little version history because private google firebase api keys in the code were present during development and testing. This repo contains only the final commit which excludes sensitive information.
+Note: This repo has little version history because private google firebase api keys were present in the code during development for the purpose actively testing the MVP. This repo contains only the final commit which excludes sensitive information.
 
 # REChain: Fractional Real-Estate Ownership MVP
 
