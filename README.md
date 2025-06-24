@@ -1,3 +1,5 @@
+Note: This repo has little version history because private google firebase api keys in the code were present during development and testing. This repo contains only the final commit which excludes sensitive information.
+
 # REChain: Fractional Real-Estate Ownership MVP
 
 REChain is a FinTech platform designed to democratize real estate investment through tokenization. This Minimum Viable Product (MVP) serves as a proof-of-concept, demonstrating the core user experience and functionality of the REChain platform as outlined in the initial business plan. It provides a tangible, investor-oriented demo that simulates the process of discovering, purchasing, managing, and governing fractional ownership of real estate assets.
